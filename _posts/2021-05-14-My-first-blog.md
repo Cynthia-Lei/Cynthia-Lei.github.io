@@ -7,8 +7,6 @@ img: school-and-me.jpg # Add image post (optional)
 tags: [Introduction] # add tag
 ---
 
-Hi, welcome to my blog! 
-
-This is a personal blog.
+Hi, welcome to my personal blog!
 
 [My Github](https://github.com/LeiYuxin-Cynthia)
