@@ -9,4 +9,4 @@ tags: [Introduction] # add tag
 
 Hi, welcome to my blog! 
 
-This is a personal blog based on Jekyll.
+This is a personal blog.
