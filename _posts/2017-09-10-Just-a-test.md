@@ -8,4 +8,6 @@ tags: [Introduction] # add tag
 ---
 ### My first blog!
 
-Hi, welcome to my first blog! 
+Hi, welcome to my blog! 
+
+This is a personal blog based on Jekyll, to study, summarize, share and improve technology.
