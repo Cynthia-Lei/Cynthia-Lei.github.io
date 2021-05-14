@@ -1,6 +1,6 @@
 # My blog
 
-Following: https://github.com/artemsheludko/flexible-jekyll
+Fork from https://github.com/artemsheludko/flexible-jekyll
 Flexible-Jekyll is a simple and clean theme for Jekyll
 
 
