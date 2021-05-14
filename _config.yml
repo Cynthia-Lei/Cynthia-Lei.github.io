@@ -5,16 +5,16 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cynthia-lei.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://leiyuxin-cynthia.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Lei Yuxin # add your name
+author: Lei Yuxin (Cynthia) # add your name
 author-img: photo.jpg # add your photo
 about-author: I am a junior student. My major is Conputer Science and Technology. Always hungry to keep learning. # add description
 # social-twitter: # add your Twitter handle
 social-facebook: lei.yuxin.14 # add your Facebook handle
-social-github: Cynthia-Lei # add your Github handle
+social-github: LeiYuxin-Cynthia # add your Github handle
 social-linkedin: 雨欣-雷-668abb1a1 # add your Linkedin handle
 social-email: 1311891173@qq.com # add your Email address
 
