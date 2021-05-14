@@ -6,8 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: school-and-me.jpg # Add image post (optional)
 tags: [Introduction] # add tag
 ---
-### My first blog!
 
 Hi, welcome to my blog! 
 
-This is a personal blog based on Jekyll, to study, summarize, share and improve technology.
+This is a personal blog based on Jekyll.
